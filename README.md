@@ -1,5 +1,5 @@
 # GT_Task
-LLM Inference on form 10-Ks from SEC-EDGAR
+LLM Inference on form 10-Ks of an Instrument from SEC-EDGAR
 
 Video Demo on Youtube:
 
