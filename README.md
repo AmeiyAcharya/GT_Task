@@ -42,6 +42,19 @@ To Be Explored:
 
 [Impact of Employee Morale on Organizational Success](https://www.ijrte.org/wp-content/uploads/papers/v8i4/D8070118419.pdf): This research suggests a strong link between high employee morale and positive financial outcomes. Unresolved staff concerns highlighted in the 10K could indicate potential morale issues that might impact future performance.
 
+# Correlation between LDA and Inferences of Item 1A.
+1. _Focus on Products and Software_: In LDA, the terms "products" and "software" have the highest term frequency within the selected topic, which aligns with Apple's core business of developing and selling hardware products and software solutions, as mentioned in the risk factors outlined in inference.
+
+2. _Competition and Market Dynamics_: Both highlight the importance of competition and market dynamics for Apple's business. In LDA, terms like "competitors," "market," and "competition" are among the most relevant terms. This corresponds with the first risk factor in the inferences, which discusses increased competition, especially in smartphones, personal computers, tablets, and services.
+
+3. _Innovation and New Product Launches_: The second risk factor in inferences emphasizes Apple's reliance on introducing innovative new products and managing frequent product transitions. This is reflected in the relevance of terms like "new," "future," and "condition" in LDA, which could be associated with new product development and market conditions.
+
+4. _Global Operations and Supply Chain_: Inference mentions the exposure to global and regional economic conditions, as well as reliance on outsourcing partners and overseas manufacturing and logistics, as risk factors. This aligns with the presence of terms like "markets," "digital," and "information" in LDA, which could be related to global operations and supply chain management.
+
+5. _Regulatory and Legal Scrutiny_: The fifth risk factor in inference discusses increased scrutiny by media, politics, and regulators regarding market power, competition, and business practices. While not explicitly mentioned in LDA, the presence of terms like "competitors," "market," and "condition" could be indirectly related to regulatory and legal concerns surrounding these aspects of Apple's business.
+
+Overall, both highlight the importance of products, software, competition, innovation, global operations, supply chain, and regulatory environments for Apple's business operations and financial performance, aligning with the key risk factors and trends mentioned in the textual information.
+
 # Tech Stack:
 `Jupyter Notebook` is a popular platform for data analysis and visualization, making it suitable for this task. It allows for easy and interactive exploration of the data.
 
