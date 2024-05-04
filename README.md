@@ -36,7 +36,7 @@ Video Demo on Youtube:
 To Be Explored:
 
 `Item 1B. Unresolved Staff Comments`
-"Impact of Employee Morale on Organizational Success" (https://www.ijrte.org/wp-content/uploads/papers/v8i4/D8070118419.pdf): This research suggests a strong link between high employee morale and positive financial outcomes. Unresolved staff concerns highlighted in the 10K could indicate potential morale issues that might impact future performance.
+[Impact of Employee Morale on Organizational Success](https://www.ijrte.org/wp-content/uploads/papers/v8i4/D8070118419.pdf): This research suggests a strong link between high employee morale and positive financial outcomes. Unresolved staff concerns highlighted in the 10K could indicate potential morale issues that might impact future performance.
 
 # Tech Stack:
 `Jupyter Notebook` is a popular platform for data analysis and visualization, making it suitable for this task. It allows for easy and interactive exploration of the data.
