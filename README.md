@@ -4,7 +4,7 @@ LLM Inference on form 10-Ks of an Instrument from SEC-EDGAR
 
 - [Video Demo on Youtube](https://youtu.be/8u5dSzeP_lU?si=m6BPKK5t4zSkTEs5)
 - [High-Quality Video on Drive](https://drive.google.com/file/d/1HMStXeGwXun7VX5tLXb4vdyWM5VnZ91X/view?usp=sharing)
-- [Inference on (124,158/5 = 24,831 words) with 300 word Response](https://github.com/AmeiyAcharya/GT_Task/blob/main/Visualizations/LLMinf1Achunk5.png)
+- [Inference on 24,831 words with 300 word Response](https://github.com/AmeiyAcharya/GT_Task/blob/main/Visualizations/LLMinf1Achunk5.png)
 
 # Steps:
 
