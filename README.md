@@ -22,12 +22,12 @@ Video Demo on Youtube:
 1. `List the key trends or changes in the company's business operations and financial performance over the past few years based on the information provided in Item 1A (Risk Factors)?`
     - The Risk Factors section discloses the most significant risks that could adversely impact the company's business, operations, industry or financial results. Analyzing trends in these risks over time provides insight into how the company's risk profile is evolving.
     - Evaluating how these various types of risks are changing gives a comprehensive view of the company's overall risk exposure.
-    - Research has shown that changes in risk factor disclosures are associated with future changes in firm performance and stock returns (https://www.researchgate.net/publication/272245080_The_Benefits_of_Specific_Risk-Factor_Disclosures)
+    - Research has shown that changes in risk factor disclosures are associated with future changes in firm performance and stock returns [The_Benefits_of_Specific_Risk-Factor_Disclosures](https://www.researchgate.net/publication/272245080_The_Benefits_of_Specific_Risk-Factor_Disclosures)
 
 2. `Based on the (MD&A) section in Item 7, what are the main factors driving the company's revenue growth or decline, and how does the company plan to address these factors going forward?`
     - The MD&A provides management's perspective on the company's financial condition, changes in financial condition, and results of operations. It explains the drivers behind revenue and profitability trends.
     - Management discusses the key factors and trends impacting revenues, such as volume, pricing, new products, competition, etc. This disaggregation is essential to understand what's really driving the top line.
-    - (https://www.researchgate.net/publication/254109721_The_Usefulness_of_MDA_Disclosures_in_the_Retail_Industry)
+    - [The_Usefulness_of_MDA_Disclosures_in_the_Retail_Industry](https://www.researchgate.net/publication/254109721_The_Usefulness_of_MDA_Disclosures_in_the_Retail_Industry)
 
 3. `According to Disclosures about Market Risk in Item 7A, what are the most significant market risks the company faces, and how does it manage or mitigate these risks?`
     - This section requires companies to disclose information about market risk exposures from financial instruments, like interest rate risk, foreign currency risk, commodity price risk, and equity price risk.
