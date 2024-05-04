@@ -2,8 +2,8 @@
 LLM Inference on form 10-Ks of an Instrument from SEC-EDGAR
 
 
-[Video Demo on Youtube](https://youtu.be/8u5dSzeP_lU?si=m6BPKK5t4zSkTEs5)
-[High-Quality Video on Drive](https://drive.google.com/file/d/1HMStXeGwXun7VX5tLXb4vdyWM5VnZ91X/view?usp=sharing)
+- [Video Demo on Youtube](https://youtu.be/8u5dSzeP_lU?si=m6BPKK5t4zSkTEs5)
+- [High-Quality Video on Drive](https://drive.google.com/file/d/1HMStXeGwXun7VX5tLXb4vdyWM5VnZ91X/view?usp=sharing)
 
 # Steps:
 
