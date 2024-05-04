@@ -22,7 +22,7 @@ Video Demo on Youtube:
 
 `Mercury` is used for deployment, allowing for easy deployment of the model and its associated functionalities locally.
 
-The libraries used in this tech stack, such as `requests`, `lxml`, `bs4`, `pandas`, `numpy`, `sklearn`, `matplotlib`, `nltk`, `gensim`, `wordcloud`, `pyLDAvis`, `seaborn`, `textblob`, `pandas_datareader`, and `BeautifulSoup`, provide the necessary functionalities for tasks such as automation, downloading, cleaning, extracting, processing, getting insights, doing LLM api inference, visualization, and web scraping.
+The libraries used in this tech stack, such as `requests`, `lxml`, `bs4`, `pandas`, `numpy`, `sklearn`, `matplotlib`, `nltk`, `gensim`, `wordcloud`, `pyLDAvis`, `seaborn`, `textblob`, `pandas_datareader`, `anthropic`, `sec_edgar_downloader`, `tkinter` and `BeautifulSoup`, provide the necessary functionalities for tasks such as automation, downloading, cleaning, extracting, processing, getting insights, doing LLM api inference, visualization, and web scraping.
 
 Overall, this tech stack ensures a seamless and efficient workflow for performing LLM inference on EDGAR form 10-K annual reports, enabling effective analysis and interpretation of the data.
 
